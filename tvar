@@ -1,0 +1,180 @@
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--LS85.png" group-title="ARGENTINA",EL TRECE
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0087
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VITELEFE.png" group-title="ARGENTINA", TELEFE
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0088
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/9Televida.png" group-title="ARGENTINA",CANAL 9 TELEVIDA
+https://unlimited1-buenosaires.dps.live/televidaar/televidaar.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--LV89.png" group-title="ARGENTINA",CANAL 7 MENDOZA
+http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0274
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---TVP.png" group-title="ARGENTINA",TV PUBLICA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
+https://g4.proy-hor.transport.edge-access.net:443/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_480p.m3u8
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/America.png" group-title="ARGENTINA",AMERICA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
+https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_540p.m3u8
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="http://offshore.lat:8080/images/LEIDO0TYILZMib3QdPsaSFbiaIDatwRiEYgBK07TGBijnszV0vaEsUW63TN9CkuQT6Ad-N1yKLfiXb9uuMutNmKysEDdzny-Gt3ml1nTsTM.jpg",AR | El Nueve *
+http://offshore.lat:8080/changeESUS@/7QcXgwrCWfYv/516.ts
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VITELEFE.png" group-title="ARGENTINA",TELEFE NOTICIAS
+http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0089
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI----TN.png" group-title="ARGENTINA",TN TODO NOTICIAS
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0058
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---C5N.png" group-title="ARGENTINA",C5N
+http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0078
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI----LN.png" group-title="ARGENTINA",LN+
+http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0079
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--26TV.png" group-title="ARGENTINA",Canal 26
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0085
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VICRONIC.png" group-title="ARGENTINA",CRONICA TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
+https://g3.vxral-slo.transport.edge-access.net/a14/ngrp:cronicatv_video1-100044_all/Playlist.m3u8?sense=true
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---A24.png" group-title="ARGENTINA",A24
+http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0094
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="http://lonewolftvpr.com/logos/cnn.png",Latino USA | CNN en Español
+http://streamsy.online:2999/happy2024/newyear/105
+#EXTINF:-1 tvg-id="24HorasCatalunya.es" tvg-logo="https://i.imgur.com/IUVRm5L.png" group-title="ARGENTINA",24HORAS CATALUÑA
+https://rtvelivestream.akamaized.net/rtvesec/cat/24h_cat_main_dvr.m3u8
+#EXTINF:-1 tvg-id="TVEStarHD.es" tvg-logo="https://i.imgur.com/zsCZHMh.png" group-title="ARGENTINA",TVE STAR
+https://rtvelivestream.akamaized.net/rtvesec/int/star_main.m3u8
+#EXTINF:-1 tvg-id="TVEInternacionalAmerica.es" tvg-logo="https://i.imgur.com/iODADvi.png" group-title="ARGENTINA",TVE INTERNACIONAL
+https://rtvelivestream.akamaized.net/rtvesec/int/tvei_ame_main.m3u8
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="http://lonewolftvpr.com/logos/antena.png", ANTENA 3
+http://streamsy.online:2999/happy2024/newyear/564
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="http://lonewolftvpr.com/logos/a3s.png", ANTENA 3 SERIES
+http://streamsy.online:2999/happy2024/newyear/565
+#EXTINF:-1 group-title="ARGENTINA" tvg-Logo="http://offshore.lat:8080/images/LEIDO0TYILZMib3QdPsaSFbiaIDatwRiEYgBK07TGBiuXrTmeOeemTta5CQSglzyIKwqc7PL1zg_BaRDr9TeLk4G939Ft4Ha3jDCHdOtg9I.png",IT | RAI
+http://offshore.lat:8080/changeESUS@/7QcXgwrCWfYv/10542.ts
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---RAI.png" group-title="ARGENTINA",RAI 3
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0052
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---RAI.png" group-title="ARGENTINA",RAI NEWS
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0053
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI----DW.png" group-title="ARGENTINA",DW Espanol
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0035
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIFRANCE.png" group-title="ARGENTINA",FRANCE24
+http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0075
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="http://offshore.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosma8-mKfauUxXtaP2C_AtP51eI4NIsEDjPE8LgaCD79ea316SU3gyG4UbTMcR7tZViU.png",CH | TVN HD
+http://offshore.lat:8080/changeESUS@/7QcXgwrCWfYv/525.ts
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="http://offshore.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmbStbN4neJwpHYao8KqmV2VcgY9FWx8v9ERlMdOb2z1OOy5G6wIWSbOK0VpSLUyums.png",CH | 24 HORAS
+http://offshore.lat:8080/changeESUS@/7QcXgwrCWfYv/537.ts
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VITELEMU.png" group-title="ARGENTINA",TELEMUNDO
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0055
+#EXTINF:-1 tvg-id="CaracolNoticiasAhora.co" tvg-logo="" group-title="ARGENTINA",CARACOL NOTICIAS
+https://mdstrm.com/live-stream-playlist/632391734be92a791e2750e6.m3u8
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VITELESU.png" group-title="ARGENTINA",TELESUR
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0082
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI----RT.png" group-title="ARGENTINA",RTV
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0083
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIGARAGE.png" group-title="ARGENTINA",GARAGE TV
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0045
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIQMUSIC.png" group-title="ARGENTINA",QUIERO MUSICA
+http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0051
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---TLX.png" group-title="ARGENTINA",TELEMAX
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0086
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI-NETTV.png" group-title="ARGENTINA",NETTV
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0087
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Cnlilpc.png" group-title="ARGENTINA",AR | ESPN
+http://streamsy.online:2999/happy2024/newyear/1676
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Cnlilpc.png" group-title="ARGENTINA",AR | ESPN 4
+http://streamsy.online:2999/happy2024/newyear/2848
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oLsqZ7o.png" group-title="ARGENTINA",AR | Fox Sports
+http://streamsy.online:2999/happy2024/newyear/1684
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oLsqZ7o.png" group-title="ARGENTINA",AR | Fox Sports 3
+http://streamsy.online:2999/happy2024/newyear/1693
+#EXTINF:-1 tvg-logo="http://lonewolftvpr.com/logos/tyc.png" group-title="ARGENTINA",AR | TYC Sports
+http://streamsy.online:2999/happy2024/newyear/1678
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://i.imgur.com/FSnjXBZ.png",MX | A&E
+http://streamsy.online:2999/happy2024/newyear/20
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://i.imgur.com/dcOciyn.png",MX | AMC
+http://streamsy.online:2999/happy2024/newyear/78
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://i.imgur.com/ry0rCq5.png",MX | Cartoon Network
+http://streamsy.online:2999/happy2024/newyear/50
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="http://lonewolftvpr.com/logos/disneyjr.png",MX | Disney JR
+http://streamsy.online:2999/happy2024/newyear/44
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="http://lonewolftvpr.com/logos/discoverykids.png",MX | Discovery Kids
+http://streamsy.online:2999/happy2024/newyear/43
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="http://lonewolftvpr.com/logos/nick.png",MX | Nick
+http://streamsy.online:2999/happy2024/newyear/48
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="http://lonewolftvpr.com/logos/nickjr.png",MX | Nick Jr
+http://streamsy.online:2999/happy2024/newyear/45
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://i.imgur.com/93dLXAf.png",MX | Animal Planet
+http://streamsy.online:2999/happy2024/newyear/61
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://i.imgur.com/GdVaAWe.png",MX | Nat Geo
+http://streamsy.online:2999/happy2024/newyear/63
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="http://lonewolftvpr.com/logos/discoverychannel.png",MX | Discovery Channel
+http://streamsy.online:2999/happy2024/newyear/60
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="http://lonewolftvpr.com/logos/h2.png",MX | History 2
+http://streamsy.online:2999/happy2024/newyear/289
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="http://lonewolftvpr.com/logos/history.png",MX | History Channel
+http://streamsy.online:2999/happy2024/newyear/57
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="http://lonewolftvpr.com/logos/gourmet.png",MX | El Gourmet
+http://streamsy.online:2999/happy2024/newyear/34
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://i.imgur.com/yUuQA4e.png",MX | Food Network
+http://streamsy.online:2999/happy2024/newyear/27
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="http://lonewolftvpr.com/logos/comedycentral.png",MX | Comedy Central
+http://streamsy.online:2999/happy2024/newyear/23
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="http://lonewolftvpr.com/logos/canaldelasestrellas.png",MX | Canal De Las Estrellas
+http://streamsy.online:2999/happy2024/newyear/3
+#EXTINF:-1 group-title="Latinamerica" tvg-logo="https://i.imgur.com/MYDl0Ux.png",MX | FX
+http://streamsy.online:2999/happy2024/newyear/19
+#EXTINF:-1 group-title="ARGENTINA",MX | Golden
+http://streamsy.online:2999/happy2024/newyear/1624
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="http://lonewolftvpr.com/logos/goldenedge.png",MX | Golden Edge
+http://streamsy.online:2999/happy2024/newyear/84
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="http://lonewolftvpr.com/logos/goldenplus.png",MX | Golden Plus
+http://streamsy.online:2999/happy2024/newyear/75
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="http://lonewolftvpr.com/logos/goldenpremier.png",MX | Golden Premier
+http://streamsy.online:2999/happy2024/newyear/83
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="http://lonewolftvpr.com/logos/hbo.png",MX | HBO
+http://streamsy.online:2999/happy2024/newyear/120
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="http://lonewolftvpr.com/logos/hbo2.png",MX | HBO 2
+http://streamsy.online:2999/happy2024/newyear/121
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="http://lonewolftvpr.com/logos/hbofamily.png",MX | HBO Family
+http://streamsy.online:2999/happy2024/newyear/119
+#EXTINF:-1 group-title="ARGENTINA",MX | HBO Mundi
+http://streamsy.online:2999/happy2024/newyear/1628
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="http://lonewolftvpr.com/logos/hbosignature.png",MX | HBO Signature
+http://streamsy.online:2999/happy2024/newyear/118
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="http://lonewolftvpr.com/logos/hboxtreme.png",MX | HBO Xtreme
+http://streamsy.online:2999/happy2024/newyear/298
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="http://lonewolftvpr.com/logos/cinecanal.png",MX | Cinecanal
+http://streamsy.online:2999/happy2024/newyear/73
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="http://lonewolftvpr.com/logos/cinemax.png",MX | Cinemax
+http://streamsy.online:2999/happy2024/newyear/82
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="http://lonewolftvpr.com/logos/paramount.png",MX | Paramount
+http://streamsy.online:2999/happy2024/newyear/1166
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="http://lonewolftvpr.com/logos/sony.png",MX | Sony
+http://streamsy.online:2999/happy2024/newyear/16
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="http://lonewolftvpr.com/logos/space.png",MX | Space
+http://streamsy.online:2999/happy2024/newyear/79
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://i.ibb.co/svdbxBP/star.png",MX | Star Channel
+http://streamsy.online:2999/happy2024/newyear/15
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="http://lonewolftvpr.com/logos/studiouniversal.png",MX | Studio Universal
+http://streamsy.online:2999/happy2024/newyear/86
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="http://lonewolftvpr.com/logos/tcm.png",MX | TCM
+http://streamsy.online:2999/happy2024/newyear/88
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="http://lonewolftvpr.com/logos/warner.png",MX | Warner
+http://streamsy.online:2999/happy2024/newyear/17
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="http://lonewolftvpr.com/logos/tnt.png",MX | TNT
+http://streamsy.online:2999/happy2024/newyear/74
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="http://lonewolftvpr.com/logos/tntseries.png",MX | TNT Series
+http://streamsy.online:2999/happy2024/newyear/33
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="http://lonewolftvpr.com/logos/universal.png",MX | Universal Cinema
+http://streamsy.online:2999/happy2024/newyear/1662
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="http://lonewolftvpr.com/logos/universal.png",MX | Universal Crime
+http://streamsy.online:2999/happy2024/newyear/1663
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="http://lonewolftvpr.com/logos/universal.png",MX | Universal Premiere
+http://streamsy.online:2999/happy2024/newyear/1661
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="http://lonewolftvpr.com/logos/universal.png",MX | Universal Reality
+http://streamsy.online:2999/happy2024/newyear/1664
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="http://lonewolftvpr.com/logos/universal.png",MX | Universal TV
+http://streamsy.online:2999/happy2024/newyear/18
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="http://lonewolftvpr.com/logos/vh1.png",MX | VH1
+http://streamsy.online:2999/happy2024/newyear/625
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="http://lonewolftvpr.com/logos/vh1classic.png",MX | VH1 Classics
+http://streamsy.online:2999/happy2024/newyear/624
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="http://lonewolftvpr.com/logos/mtv.png",MX | MTV
+http://streamsy.online:2999/happy2024/newyear/620
+
+
+
+
+
