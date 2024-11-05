@@ -2,18 +2,6 @@
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0087
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VITELEFE.png" group-title="ARGENTINA", TELEFE
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0088
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/9Televida.png" group-title="ARGENTINA",CANAL 9 TELEVIDA
-https://unlimited1-buenosaires.dps.live/televidaar/televidaar.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--LV89.png" group-title="ARGENTINA",CANAL 7 MENDOZA
-http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0274
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---TVP.png" group-title="ARGENTINA",TV PUBLICA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
-https://g4.proy-hor.transport.edge-access.net:443/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_480p.m3u8
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/America.png" group-title="ARGENTINA",AMERICA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
-https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_540p.m3u8
-#EXTINF:-1 group-title="ARGENTINA" tvg-logo="http://offshore.lat:8080/images/LEIDO0TYILZMib3QdPsaSFbiaIDatwRiEYgBK07TGBijnszV0vaEsUW63TN9CkuQT6Ad-N1yKLfiXb9uuMutNmKysEDdzny-Gt3ml1nTsTM.jpg",AR | El Nueve *
-http://offshore.lat:8080/changeESUS@/7QcXgwrCWfYv/516.ts
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VITELEFE.png" group-title="ARGENTINA",TELEFE NOTICIAS
 http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0089
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI----TN.png" group-title="ARGENTINA",TN TODO NOTICIAS
@@ -29,36 +17,20 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0085
 https://g3.vxral-slo.transport.edge-access.net/a14/ngrp:cronicatv_video1-100044_all/Playlist.m3u8?sense=true
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---A24.png" group-title="ARGENTINA",A24
 http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0094
-#EXTINF:-1 group-title="ARGENTINA" tvg-logo="http://lonewolftvpr.com/logos/cnn.png",Latino USA | CNN en Español
-http://streamsy.online:2999/happy2024/newyear/105
-#EXTINF:-1 tvg-id="24HorasCatalunya.es" tvg-logo="https://i.imgur.com/IUVRm5L.png" group-title="ARGENTINA",24HORAS CATALUÑA
-https://rtvelivestream.akamaized.net/rtvesec/cat/24h_cat_main_dvr.m3u8
-#EXTINF:-1 tvg-id="TVEStarHD.es" tvg-logo="https://i.imgur.com/zsCZHMh.png" group-title="ARGENTINA",TVE STAR
-https://rtvelivestream.akamaized.net/rtvesec/int/star_main.m3u8
-#EXTINF:-1 tvg-id="TVEInternacionalAmerica.es" tvg-logo="https://i.imgur.com/iODADvi.png" group-title="ARGENTINA",TVE INTERNACIONAL
-https://rtvelivestream.akamaized.net/rtvesec/int/tvei_ame_main.m3u8
-#EXTINF:-1 group-title="ARGENTINA" tvg-logo="http://lonewolftvpr.com/logos/antena.png", ANTENA 3
-http://streamsy.online:2999/happy2024/newyear/564
-#EXTINF:-1 group-title="ARGENTINA" tvg-logo="http://lonewolftvpr.com/logos/a3s.png", ANTENA 3 SERIES
-http://streamsy.online:2999/happy2024/newyear/565
-#EXTINF:-1 group-title="ARGENTINA" tvg-Logo="http://offshore.lat:8080/images/LEIDO0TYILZMib3QdPsaSFbiaIDatwRiEYgBK07TGBiuXrTmeOeemTta5CQSglzyIKwqc7PL1zg_BaRDr9TeLk4G939Ft4Ha3jDCHdOtg9I.png",IT | RAI
-http://offshore.lat:8080/changeESUS@/7QcXgwrCWfYv/10542.ts
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--LV89.png" group-title="ARGENTINA",CANAL 7 MENDOZA
+http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0273
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/9Televida.png" group-title="ARGENTINA",CANAL 9 TELEVIDA
+https://unlimited1-buenosaires.dps.live/televidaar/televidaar.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---RAI.png" group-title="ARGENTINA",RAI 3
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0052
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0050
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---RAI.png" group-title="ARGENTINA",RAI NEWS
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0053
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0051
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI----DW.png" group-title="ARGENTINA",DW Espanol
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0035
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0033
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIFRANCE.png" group-title="ARGENTINA",FRANCE24
-http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0075
-#EXTINF:-1 group-title="ARGENTINA" tvg-logo="http://offshore.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosma8-mKfauUxXtaP2C_AtP51eI4NIsEDjPE8LgaCD79ea316SU3gyG4UbTMcR7tZViU.png",CH | TVN HD
-http://offshore.lat:8080/changeESUS@/7QcXgwrCWfYv/525.ts
-#EXTINF:-1 group-title="ARGENTINA" tvg-logo="http://offshore.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmbStbN4neJwpHYao8KqmV2VcgY9FWx8v9ERlMdOb2z1OOy5G6wIWSbOK0VpSLUyums.png",CH | 24 HORAS
-http://offshore.lat:8080/changeESUS@/7QcXgwrCWfYv/537.ts
+http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0041
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VITELEMU.png" group-title="ARGENTINA",TELEMUNDO
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0055
-#EXTINF:-1 tvg-id="CaracolNoticiasAhora.co" tvg-logo="" group-title="ARGENTINA",CARACOL NOTICIAS
-https://mdstrm.com/live-stream-playlist/632391734be92a791e2750e6.m3u8
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VITELESU.png" group-title="ARGENTINA",TELESUR
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0082
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI----RT.png" group-title="ARGENTINA",RTV
@@ -71,6 +43,30 @@ http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0051
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0086
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI-NETTV.png" group-title="ARGENTINA",NETTV
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0087
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/ElTrece.png" tvg-country="AR" tvg-language="Spanish" group-title="Generales",El Trece
+https://live-01-02-eltrece.vodgc.net:443/eltrecetv/tracks-v3a1/mono.m3u8
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="http://lonewolftvpr.com/logos/cnn.png",Latino USA | CNN en Español
+http://streamsy.online:2999/happy2024/newyear/105
+#EXTINF:-1 tvg-id="24HorasCatalunya.es" tvg-logo="https://i.imgur.com/IUVRm5L.png" group-title="ARGENTINA",24HORAS CATALUÑA
+https://rtvelivestream.akamaized.net/rtvesec/cat/24h_cat_main_dvr.m3u8
+#EXTINF:-1 tvg-id="TVEStarHD.es" tvg-logo="https://i.imgur.com/zsCZHMh.png" group-title="ARGENTINA",TVE STAR
+https://rtvelivestream.akamaized.net/rtvesec/int/star_main.m3u8
+#EXTINF:-1 tvg-id="TVEInternacionalAmerica.es" tvg-logo="https://i.imgur.com/iODADvi.png" group-title="ARGENTINA",TVE INTERNACIONAL
+https://rtvelivestream.akamaized.net/rtvesec/int/tvei_ame_main.m3u8
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="http://lonewolftvpr.com/logos/antena.png", ANTENA 3
+http://streamsy.online:2999/happy2024/newyear/564
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="http://lonewolftvpr.com/logos/a3s.png", ANTENA 3 SERIES
+http://streamsy.online:2999/happy2024/newyear/565
+#EXTINF:-1 tvg-id="CaracolNoticiasAhora.co" tvg-logo="" group-title="ARGENTINA",CARACOL NOTICIAS
+https://mdstrm.com/live-stream-playlist/632391734be92a791e2750e6.m3u8
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---TVP.png" group-title="ARGENTINA",TV PUBLICA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
+https://g4.proy-hor.transport.edge-access.net:443/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_480p.m3u8
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/America.png" group-title="ARGENTINA",AMERICA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
+https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_540p.m3u8
+#EXTINF:-1 tvg-id="CaracolNoticiasAhora.co" tvg-logo="" group-title="ARGENTINA",CARACOL NOTICIAS
+https://mdstrm.com/live-stream-playlist/632391734be92a791e2750e6.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Cnlilpc.png" group-title="ARGENTINA",AR | ESPN
 http://streamsy.online:2999/happy2024/newyear/1676
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Cnlilpc.png" group-title="ARGENTINA",AR | ESPN 4
